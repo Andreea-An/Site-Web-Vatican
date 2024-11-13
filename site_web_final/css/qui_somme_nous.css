@@ -1,0 +1,47 @@
+.presentation{
+    
+    margin-top:45px ;
+    margin-bottom: 45px;
+    border: #b94503 1px solid ;
+    
+    width: 80%;
+    margin-left: 10%;
+    padding: 0.5em;
+
+    min-width: 250px;
+    
+}
+.presentation{
+    margin-top:45px ;
+    margin-bottom: 45px;
+    border: #b94503 1px solid ;
+    
+    width: 80%;
+    margin-left: 10%;
+    padding: 0.5em;
+
+    min-width: 250px;
+    
+}
+.prof{
+    color: silver;
+}
+#mcn{
+    width: 100%;
+}
+#gustave{
+    width: 100%;
+
+    margin-left: -105%;
+}
+#unesco{
+    width: 50%;
+}
+.partenaire{
+    display: flex;
+    list-style: none;
+}
+img{
+    width: 70%;
+    margin: 15%;
+}
